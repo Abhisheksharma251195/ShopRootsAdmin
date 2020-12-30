@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3/1iC+eteO2yrBSSFpNoaUcgSzYMtuPBSrkDqspcWmqRR5fUgbPrtcZ8Q08VUIb4fIC0/JsEUEaDqcSw0aybwA==",
+  "dgSpecHash": "HMNCW0tTAiEzLQXcsiGmyALv8Z7kamInwVYZIVlVGBTO6t2qMxXloAZyBhhjiZWtRfnDWmExir/sslgR/FnxZA==",
   "success": true,
-  "projectFilePath": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin\\shopRootsAdmin.csproj",
+  "projectFilePath": "D:\\Proj\\shopRootsAdmin\\shopRootsAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abhi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Abhi\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

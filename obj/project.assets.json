@@ -5566,11 +5566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin\\shopRootsAdmin.csproj",
+      "projectUniqueName": "D:\\Proj\\shopRootsAdmin\\shopRootsAdmin.csproj",
       "projectName": "shopRootsAdmin",
-      "projectPath": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin\\shopRootsAdmin.csproj",
+      "projectPath": "D:\\Proj\\shopRootsAdmin\\shopRootsAdmin.csproj",
       "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-      "outputPath": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin\\obj\\",
+      "outputPath": "D:\\Proj\\shopRootsAdmin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5587,11 +5587,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRoots.infrastructure\\shopRoots.infrastructure.csproj": {
-              "projectPath": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRoots.infrastructure\\shopRoots.infrastructure.csproj"
+            "D:\\Proj\\shopRoots.infrastructure\\shopRoots.infrastructure.csproj": {
+              "projectPath": "D:\\Proj\\shopRoots.infrastructure\\shopRoots.infrastructure.csproj"
             },
-            "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin.core\\shopRootsAdmin.core.csproj": {
-              "projectPath": "D:\\shopRoots\\shopRootsUser\\ShopRootsAdmin\\shopRootsAdmin.core\\shopRootsAdmin.core.csproj"
+            "D:\\Proj\\shopRootsAdmin.core\\shopRootsAdmin.core.csproj": {
+              "projectPath": "D:\\Proj\\shopRootsAdmin.core\\shopRootsAdmin.core.csproj"
             }
           }
         }
